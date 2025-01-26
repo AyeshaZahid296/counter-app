@@ -14,7 +14,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen flex justify-center items-center bg-cover bg-[url('./blue-sky-clouds.png')]">
+    <div className="min-h-screen flex justify-center items-center bg-cover bg-[url('/blue-sky-clouds.png')]">
       <div className="text-center bg-yellow-100 p-8 rounded-xl shadow-xl max-w-xs w-full">
         <h1 className="text-3xl text-pink-500 font-semibold mb-4">Counter App</h1>
         <p
